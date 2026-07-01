@@ -12,3 +12,4 @@ C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\refint\CSharp
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.pdb
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.genruntimeconfig.cache
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\ref\CSharplearning.dll
+C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.sourcelink.json
