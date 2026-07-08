@@ -4,11 +4,6 @@ using System.Security.Cryptography.X509Certificates;
 
 class Question2
 {
-    public static void Main()
-    {
-        Question2.Sum(10,20);
-    }
-
     public static void Sum(int a, int b)
     {
         int c= a+b;
