@@ -9,7 +9,9 @@ class Program
     // Question1.Display();
     // Question3 question3= new Question3();
     //  Question3.Display();
-    Question4 question4= new Question4();
-    Question4.Display();
+    // Question4 question4= new Question4();
+    // Question4.Display();
+    Q1 q1 = new Q1();
+    Q1.Display();
     }
 }
