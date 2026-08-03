@@ -13,3 +13,18 @@ C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearnin
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.genruntimeconfig.cache
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\ref\CSharplearning.dll
 C:\Users\class12\Documents\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.sourcelink.json
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.AssemblyInfoInputs.cache
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.AssemblyInfo.cs
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.csproj.CoreCompileInputs.cache
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.sourcelink.json
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.dll
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\refint\CSharplearning.dll
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.pdb
+E:\class12(not for others)\CSharp\CSharplearning\bin\Debug\net10.0\CSharplearning.exe
+E:\class12(not for others)\CSharp\CSharplearning\bin\Debug\net10.0\CSharplearning.deps.json
+E:\class12(not for others)\CSharp\CSharplearning\bin\Debug\net10.0\CSharplearning.runtimeconfig.json
+E:\class12(not for others)\CSharp\CSharplearning\bin\Debug\net10.0\CSharplearning.dll
+E:\class12(not for others)\CSharp\CSharplearning\bin\Debug\net10.0\CSharplearning.pdb
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\CSharplearning.genruntimeconfig.cache
+E:\class12(not for others)\CSharp\CSharplearning\obj\Debug\net10.0\ref\CSharplearning.dll
